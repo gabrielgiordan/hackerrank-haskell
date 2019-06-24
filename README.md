@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-8-blueviolet.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-9-blueviolet.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-Haskell-blueviolet.svg?longCache=true&style=for-the-badge">
 </p>
 <p align="center">
@@ -14,6 +14,7 @@
 # Functional Programming
 |   | Problem         | Solution | Note |
 |-- |:---------------:|:--------:|:----:|
+|   |[Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)| [Haskell](fp-sum-of-odd-elements.hs) | |
 |   |[Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list)| [Haskell](fp-reverse-a-list.hs) | |
 |   |[Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements)| [Haskell](fp-array-of-n-elements.hs) | |
 |   |[Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list)| [Haskell](fp-filter-positions-in-a-list.hs) | |
