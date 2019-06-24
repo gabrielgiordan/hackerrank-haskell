@@ -2,7 +2,7 @@
     <img alt="Haskell" src="./haskell-logo.png" width=150>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-10-blueviolet.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-11-blueviolet.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-Haskell-blueviolet.svg?longCache=true&style=for-the-badge">
 </p>
 <p align="center">
@@ -13,6 +13,7 @@
 
 |    | Problem                                                                                           | Solution                             | Note |
 |:---|:--------------------------------------------------------------------------------------------------|:-------------------------------------|:-----|
+|    | [Update List](https://www.hackerrank.com/challenges/fp-update-list)                               | [Haskell](UpdateList.hs)             |      |
 |    | [List Lenght](https://www.hackerrank.com/challenges/fp-list-length)                               | [Haskell](ListLength.hs)             |      |
 |    | [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)               | [Haskell](SumOfOddElements.hs)       |      |
 |    | [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list)                         | [Haskell](ReverseAList.hs)           |      |
