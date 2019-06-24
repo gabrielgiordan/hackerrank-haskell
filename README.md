@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-2-blueviolet.svg?longCache=true&style=for-the-badge">
+  <img alt="Solutions" src="https://img.shields.io/badge/Solutions-3-blueviolet.svg?longCache=true&style=for-the-badge">
   <img alt="Languages" src="https://img.shields.io/badge/Languages-Haskell-blueviolet.svg?longCache=true&style=for-the-badge">
 </p>
 <p align="center">
@@ -14,5 +14,6 @@
 # Functional Programming
 |   | Problem         | Solution | Note |
 |-- |:---------------:|:--------:|:----:|
-|   |[Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first)| [Haskell](fp-solve-me-first.hs) | |
+|   |[Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times)| [Haskell](fp-hello-world-n-times.hs) | |
 |   |[Hello World](https://www.hackerrank.com/challenges/fp-hello-world)| [Haskell](fp-hello-world.hs) | |
+|   |[Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first)| [Haskell](fp-solve-me-first.hs) | |
